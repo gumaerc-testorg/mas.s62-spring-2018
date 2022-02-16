@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-s62-cryptocurrency-engineering-and-design-spring-2018/ce7f15e5e214615f2947d7e5a317cd0d_MAS-S62S18-lec03.pdf
+file: /media/courses/mas-s62-cryptocurrency-engineering-and-design-spring-2018/ce7f15e5e214615f2947d7e5a317cd0d_MAS-S62S18-lec03.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: MAS-S62S18-lec03.pdf
 uid: ce7f15e5-e214-615f-2947-d7e5a317cd0d

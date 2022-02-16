@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 2f392c24-a659-65e1-313a-0912a7daee6d
 title: 'Problem Set 1: Hash-based Signature Schemes'
 uid: 3a56d48b-646b-b7d6-d731-0e22e76b1bf9

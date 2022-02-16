@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 2f392c24-a659-65e1-313a-0912a7daee6d
 title: 'Problem Set 2: Mine Your Name'
 uid: c0452f07-9656-197a-75e1-23a1cfc08b85

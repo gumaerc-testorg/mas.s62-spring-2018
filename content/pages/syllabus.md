@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: cdca06a6-07f8-4d9c-547f-3e3e493c37ea
 ---
@@ -12,7 +14,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-Programming experience is required to succeed in this course. See the list of [Introductory Programming Courses](http://ocw2.mit.edu/courses/intro-programming/) on OCW.
+Programming experience is required to succeed in this course. See the list of [Introductory Programming Courses](/courses/intro-programming/) on OCW.
 
 Course Description
 ------------------

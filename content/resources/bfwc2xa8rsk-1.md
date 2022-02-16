@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-s62-cryptocurrency-engineering-and-design-spring-2018/66cdeceb821fb721421ef88182690786_BFwc2XA8rSk.pdf
+file: /media/courses/mas-s62-cryptocurrency-engineering-and-design-spring-2018/66cdeceb821fb721421ef88182690786_BFwc2XA8rSk.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 66cdeceb-821f-b721-421e-f88182690786
