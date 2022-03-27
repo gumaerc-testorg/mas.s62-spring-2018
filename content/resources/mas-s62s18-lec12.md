@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8b7d559e-537d-c21b-84d6-c93184a2ca61
 resourcetype: Document
 title: MAS-S62S18-lec12.pdf
 uid: bdca99f7-b3b0-db13-b01b-3a6cb6775b5f

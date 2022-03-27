@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: Signatures, Hashing, Hash Chains, e-cash, and Motivation'
 uid: 6c660d03-8632-c01b-ffe5-34dc50f127c1
 video_files:

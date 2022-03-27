@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8b7d559e-537d-c21b-84d6-c93184a2ca61
 resourcetype: Document
 title: Cryptocurrency Engineering and Design
 uid: 482e036a-a0d0-7fb3-b9cf-27d9c5e8c2c3
