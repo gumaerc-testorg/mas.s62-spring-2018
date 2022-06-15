@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This section contains a playlist of the video lectures for the course
+  and links to the lecture notes.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos

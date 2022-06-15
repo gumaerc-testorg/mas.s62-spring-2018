@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes the problem sets.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -10,9 +11,9 @@ uid: 2f392c24-a659-65e1-313a-0912a7daee6d
 Problem Sets
 ------------
 
-1.  [Hash-based Signature Schemes]({{< baseurl >}}/pages/assignments/pset1-hash-based-signature-schemes)
-2.  [Mine Your Name]({{< baseurl >}}/pages/assignments/pset2-mine-your-name)
-3.  [UTXOhunt]({{< baseurl >}}/pages/assignments/pset3-utxohunt)
+1.  {{% resource_link 3a56d48b-646b-b7d6-d731-0e22e76b1bf9 "Hash-based Signature Schemes" %}}
+2.  {{% resource_link c0452f07-9656-197a-75e1-23a1cfc08b85 "Mine Your Name" %}}
+3.  {{% resource_link 5b08a8fc-ea0e-3d97-ca5b-a74f966ef78a "UTXOhunt" %}}
 
 Final Projects
 --------------
