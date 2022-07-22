@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: Illustration of a bitcoin in a matrix of digital numbers.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: mas-s62s18-th.jpg

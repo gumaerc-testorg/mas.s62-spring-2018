@@ -4,6 +4,7 @@ description: ''
 file: /courses/mas-s62-cryptocurrency-engineering-and-design-spring-2018/2e29abd958c77e6781b240dd947b2174_gF4Mkkhyz1Q.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
