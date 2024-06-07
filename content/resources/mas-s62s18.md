@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/mas-s62-cryptocurrency-engineering-and-design-spring-2018/3342fe0c3491729d56718ebf8f502fb8_mas-s62s18.jpg
+file_size: 56770
 file_type: image/jpeg
 image_metadata:
   caption: 'Illustration of a Bitcoin in the matrix courtesy of [Aaron J. Olson](https://pixabay.com/illustrations/bitcoin-crypto-money-blockchain-3767104/).
