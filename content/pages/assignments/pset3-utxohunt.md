@@ -71,7 +71,7 @@ Save this address (it starts with an "m"). You'll need this to send the money to
 
 ## Task 2: Find the First Treasure Hunt Transaction
 
-A *block explorer* is a website which watches the blockchain and parses out information about blocks, addresses, and transactions. You can use this blockexplorer to see what's happening on [the Bitcoin testnet](https://testnet.smartbit.com.au/).
+A *block explorer* is a website which watches the blockchain and parses out information about blocks, addresses, and transactions. You can use this blockexplorer to see what's happening on the Bitcoin testnet.
 
 I've created a transaction with one 70 outputs. `1f497ac245eb25cd94157c290f62d042e3bdda1e57920b6d1d2c5cfa362c12da` is the txid, or unique identifier of this transaction. (The txid is the hash of the serialized transaction.)
 
