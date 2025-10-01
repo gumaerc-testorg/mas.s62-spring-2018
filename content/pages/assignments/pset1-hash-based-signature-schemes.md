@@ -15,13 +15,13 @@ In the first part of this problem set, you'll implement Lamport signatures. In t
 
 ## Getting started
 
-You'll implement all labs in Go. The [Go website](https://golang.org/) contains a lot of useful information including a tutorial for learning Go if you're not already familiar with it.
+You'll implement all labs in Go. The {{% resource_link "e08e3871-7ad9-4ef4-8b42-35b67e9a998a" "Go website" %}} contains a lot of useful information including a tutorial for learning Go if you're not already familiar with it.
 
 You will probably find it most convenient to install Go 1.9 on your own computer, but you can also use it remotely.
 
-You can use a regular editor like vim / emacs / notepad.exe. There is also a go-specific open source IDE that Tadge recommends & uses, [LiteIDE](https://github.com/visualfc/liteide) which may make things easier.
+You can use a regular editor like vim / emacs / notepad.exe. There is also a go-specific open source IDE that Tadge recommends & uses, {{% resource_link "5ed79fa4-8354-4dd8-abe8-99652afdd907" "LiteIDE" %}} which may make things easier.
 
-In order to submit your lab, you'll need to use Git. [You can read about Git here](https://www.kernel.org/pub/software/scm/git/docs/user-manual.html).
+In order to submit your lab, you'll need to use Git. {{% resource_link "0f346c14-f97f-4199-8f4a-b303a182978b" "You can read about Git here" %}}.
 
 ## Collaboration Policy
 
@@ -29,14 +29,14 @@ You must write all of the code you hand in, except for what we give you with the
 
 ## Part 1
 
-In this problem set, you will build a hash-based signature system. It will be helpful to read about [Lamport signatures](https://en.wikipedia.org/wiki/Lamport_signature).
+In this problem set, you will build a hash-based signature system. It will be helpful to read about {{% resource_link "8468b79a-f979-4b98-8a13-3dbd55b1ae4f" "Lamport signatures" %}}.
 
 Implement the `GenerateKey()`, `Sign()` and `Verify()` functions in `main.go`. When you have done so correctly, the program should print `Verify worked? true`. You can test this by doing the following:
 
 `$ go build`   
 `$ ./pset01`
 
-Hint: You will need to look at the bits in each byte in a hash. You can use [bit operators](https://medium.com/learning-the-go-programming-language/bit-hacking-with-go-e0acee258827) in order to do so.
+Hint: You will need to look at the bits in each byte in a hash. You can use {{% resource_link "fd09284e-0284-4d53-9ffd-d2cec1e6c119" "bit operators" %}} in order to do so.
 
 Make sure your code passes the tests by running:
 
