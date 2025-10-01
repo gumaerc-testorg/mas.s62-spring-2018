@@ -26,19 +26,19 @@ ADDITIONAL MATERIALS
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link "8961df86-1657-2f4f-4a8c-8a6a67653138" "Lecture 2: Proof of Work (PoW) and Mining (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
-Nakamoto, Satoshi. "[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/en/bitcoin-paper)."
+Nakamoto, Satoshi. "{{% resource_link "c7d233d7-64fa-40f7-a4f2-26d5c30d6a2a" "Bitcoin: A Peer-to-Peer Electronic Cash System" %}}."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link "ce7f15e5-e214-615f-2947-d7e5a317cd0d" "Lecture 3: Signatures (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
-Maxwell, Gregory, Andrew Poelstra, Yannick Seurin and Pieter Wuille. "[Simple Schnorr Multi-Signatures with Applications to Bitcoin](https://eprint.iacr.org/2018/068)."
+Maxwell, Gregory, Andrew Poelstra, Yannick Seurin and Pieter Wuille. "{{% resource_link "643a5a29-c8c1-4a27-93d7-855d065f24c2" "Simple Schnorr Multi-Signatures with Applications to Bitcoin" %}}."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link "482e036a-a0d0-7fb3-b9cf-27d9c5e8c2c3" "Lecture 4: Transactions and the UTXO Model (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
-[Bitcoin Transactions](https://en.bitcoin.it/wiki/Transaction)
+{{% resource_link "b7e7e5fb-eb74-498b-9725-a01445d0e4b4" "Bitcoin Transactions" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
@@ -61,9 +61,9 @@ Guest Lecturer: Alin Tomescu
 
 {{< tdclose >}}{{< tdopen >}}
 
-Tomescu, Alin, and Srini Devadas. "[Catena: Efficient Non-equivocation via Bitcoin](https://ieeexplore.ieee.org/abstract/document/7958589)." MIT CSAIL.
+Tomescu, Alin, and Srini Devadas. "{{% resource_link "0c26430e-b830-4482-ad2c-915ab725ff5f" "Catena: Efficient Non-equivocation via Bitcoin" %}}." MIT CSAIL.
 
-[Catena code on GitHub](https://github.com/alinush/catena-java)
+{{% resource_link "828221ec-bd2f-4967-9dec-11e1441abd9f" "Catena code on GitHub" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
