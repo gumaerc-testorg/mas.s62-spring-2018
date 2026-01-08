@@ -5,8 +5,8 @@ file: /ol-ocw-studio-app/courses/mas-s62-cryptocurrency-engineering-and-design-s
 file_size: 56770
 file_type: image/jpeg
 image_metadata:
-  caption: 'Illustration of a Bitcoin in the matrix courtesy of {{% resource_link
-    "86eae7cb-bb09-4aa0-a15a-46612c760532" "Aaron J. Olson" %}}. License: CC0.'
+  caption: 'Illustration of a Bitcoin in the matrix courtesy of [Aaron J. Olson](https://pixabay.com/illustrations/bitcoin-crypto-money-blockchain-3767104/).
+    License: CC0.'
   credit: ''
   image-alt: Illustration of a bitcoin in a matrix of digital numbers.
 learning_resource_types: []
