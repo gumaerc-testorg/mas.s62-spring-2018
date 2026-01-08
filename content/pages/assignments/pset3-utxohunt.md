@@ -19,7 +19,7 @@ In this problem set you'll perform many of the functions of wallet software, by 
 
 ## Setup
 
-Get Bitcoin Core 0.16.0, available at {{% resource_link "ea2dc64a-bfde-48e8-ba58-2b79c92f77c8" "the download section of the Bitcoin Core website" %}}.
+Get Bitcoin Core 0.16.0, available at [the download section of the Bitcoin Core website](https://bitcoincore.org/en/download/).
 
 To get on to the test network, make a bitcoin.conf file in your bitcoin folder (which is `HOMEDIR/.bitcoin/bitcoin.conf` or in linux  `~/.bitcoin/`) and have the following line in the conf file:
 
